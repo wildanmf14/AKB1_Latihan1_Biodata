@@ -1,0 +1,31 @@
+<resources>
+<!--    attribute values-->
+    <string name="app_name">Profil Mahasiswa</string>
+    <string name="nama_lengkap">Wildan Muhammad Fikri</string>
+    <string name="nim">10118044</string>
+    <string name="kelas">IF-1</string>
+    <string name="jenis_kelamin">Laki-laki</string>
+    <string name="tempat_tanggal_lahir">Subang, 14 Januari 2000</string>
+    <string name="alamat_rumah">Alamat </string>
+    <string name="golongan_darah">A</string>
+    <string name="makanan_kesukaan">Semur Ayam</string>
+    <string name="minuman_kesukaan">Kopi</string>
+    <string name="hobi">Nonton Anime</string>
+    <string name="lagu_favorit">Ano Yume wo Nazomu - Yoasobi</string>
+    <string name="film_favorit">Uma Musume</string>
+    <string name="pekerjaan_impian">Technical Artist</string>
+
+<!--    attribute label-->
+    <string name="label_nim">NIM</string>
+    <string name="label_kelas">Kelas</string>
+    <string name="label_jenis_kelamin">Jenis Kelamin</string>
+    <string name="label_tempat_tanggal_lahir">Tempat, Tanggal Lahir</string>
+    <string name="label_alamat_rumah">Alamat Rumah</string>
+    <string name="label_golongan_darah">Golongan Darah</string>
+    <string name="label_makanan_kesukaan">Makanan Kesukaan</string>
+    <string name="label_minuman_kesukaan">Minuman Kesukaan</string>
+    <string name="label_hobi">Hobi</string>
+    <string name="label_lagu_favorit">Lagu Favorit</string>
+    <string name="label_film_favorit">Film Favorit</string>
+    <string name="label_pekerjaan_impian">Pekerjaan Impian</string>
+</resources>
